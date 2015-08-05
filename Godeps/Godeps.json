@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/DigitalInnovation/simplyactiveapi",
+	"ImportPath": "github.com/Izureru/simplyactiveapi",
 	"GoVersion": "go1.3.3",
 	"Deps": [
 		{
